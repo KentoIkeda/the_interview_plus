@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title></title>
+<link rel="stylesheet" href="style.css" type="text/css">
+<script type="text/javascript" language="JavaScript" src="moji_kakusu.js" charset="shift-jis"></script>
+<script type="text/javascript" LANGUAGE="JavaScript" src="jquery.js" charset="UTF-8"></script>
+</head>
+<body>
+<div style="text-align : center;">
+<img src="img/majime_otoko_syoumen.jpg" style="color : rgb(255, 255, 255);text-align : center;" width="217" height="217"> 　
+<img src="img/majime_otoko_yokogao.jpg" style="color : rgb(255, 255, 255);text-align : center;" width="161" height="219"> 　
+<img src="img/dame_otoko.jpg" style="color : rgb(255, 255, 255);text-align : center;" width="217" height="217">
+<br>
+</div>
+<div>
+　　・髪は短く切っておきましょう。<br>
+　　　（前髪は<u><b>目にかからない程度</b></u>にしたほうがベストです。）<br>
+　　・頭頂部の髪が立っているのは良くありませんので、<br>
+　　　髪がたってしまうならムースなどで軽く抑えましょう。
+</div>
+<a href="#"><input type="submit" name="太字部分を隠す" value="太字部分を隠す" style="float : right;" id="button" onclick="OnOff(this);"></a>
+</body>
+</html>

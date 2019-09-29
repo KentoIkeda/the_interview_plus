@@ -1,0 +1,62 @@
+﻿@charset "utf-8";
+body{
+  font-size : 18px;
+  font-family : "Meiryo UI";
+  color : black;
+  background-color : rgb(244, 244, 244);
+  line-height : 1.5em;
+}
+
+td{
+	border-width : 0px 0px 1px 1px;border-style : solid;border-color : black;
+}
+
+b{
+  color : rgb(244, 244, 244);
+}
+
+i{
+  font-style : italic;
+  color : red;
+}
+
+u{
+  color : red;
+}
+
+#A1, #B1,#C1{
+  background-color : rgb(0, 191, 191);
+  font-weight : bold;
+  border-top-width : 1px;
+  border-top-style : solid;
+  border-top-color : black;
+}
+
+#A2,#A3,#A4,#A5,#A6,#A7,#A8,#A9{
+  background-color : rgb(189, 189, 0);
+  color : black;
+  font-weight : bold;
+}
+
+#B2,#B3,#B4,#B5,#B6,#B7,#B8,#B9,#B10,#B11,#B12{
+  color : black;
+  background-color : rgb(244, 244, 244);
+}
+
+#A2_,#A3_,#A4_,#A5_,#A6_,#A7_,#A8_,#A9_,#A10_,#A11_,#A12_{
+  color : black;
+  background-color : rgb(247, 247, 247);
+}
+
+#C2,#C3,#C4,#C5,#C6,#C7,#C8,#C9,#C10,#C11,#C12{
+  color : black;
+  background-color : rgb(244, 244, 244);
+  border-right-width : 1px;
+  border-right-style : solid;
+  border-right-color : white;
+}
+input{
+  font-family : "Meiryo UI";
+  font-size : 18px;
+  line-height : 18px;
+}
